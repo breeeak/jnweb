@@ -4,7 +4,7 @@ This is a template used for developing web project based on SpringBoot, Mybatis,
 
 ## Finished Project
 
-### FinancialManagement
+### LabelProject
 A Label project used for images retrieval.
 ![LabelProject.png](./LabelProject.jpg)
 
