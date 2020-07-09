@@ -19,7 +19,7 @@
 		<google.guava>23.0</google.guava>
 		<commons-lang3>3.7</commons-lang3>
 		<fastjson.version>1.2.41</fastjson.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<druid.version>1.1.8</druid.version>
 		<poi.version>3.17</poi.version>
 		<jwt.version>0.9.0</jwt.version>
